@@ -6,7 +6,7 @@ A **modern, full-stack portfolio website** showcasing projects, blog posts, and 
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -20,7 +20,7 @@ A **modern, full-stack portfolio website** showcasing projects, blog posts, and 
 
 ---
 
-## 📸 Preview
+## Preview
 
 ### Home & About Section
 ![Portfolio Home](./apps/web/public/images/portfolio-home.png)
@@ -41,7 +41,7 @@ Technical blog covering infrastructure and DevOps fundamentals:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
@@ -55,7 +55,7 @@ Technical blog covering infrastructure and DevOps fundamentals:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 GUI_Portfolio/
@@ -105,7 +105,7 @@ GUI_Portfolio/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - **Node.js** 18+
@@ -149,7 +149,7 @@ npm run lint
 
 ---
 
-## 💡 About This Project
+## About This Project
 
 This portfolio represents my journey into **full-stack development, DevOps, and infrastructure engineering**:
 
@@ -162,19 +162,19 @@ This portfolio represents my journey into **full-stack development, DevOps, and 
 
 I'm building a comprehensive suite of projects to understand modern software engineering:
 
-- **🖥️ Terminal Portfolio (ANTEC)**
+- **Terminal Portfolio (ANTEC)**
   - Linux-inspired CLI portfolio with full authentication
   - Tech: React, Express.js, MongoDB, JWT, Docker
   - Focus: Full-stack architecture, security practices, DevOps fundamentals
   - Learning: Monorepo management, containerization, deployment pipelines
 
-- **🎵 TTY.FM (Music Streaming)**
+- **TTY.FM (Music Streaming)**
   - Cyberpunk-themed music streaming system
   - Tech: React, Node.js, Tailscale, PM2, WebSocket
   - Focus: Self-hosting infrastructure, reverse tunneling, process management
   - Learning: Understanding internet infrastructure, NAT traversal, secure networking
 
-- **🎭 FuckOmegel (Video Chat)**
+- **FuckOmegel (Video Chat)**
   - Real-time video chat with cyberpunk aesthetic
   - Tech: React, FastAPI, WebRTC, WebSocket
   - Focus: Real-time communication, peer-to-peer networking
@@ -182,7 +182,7 @@ I'm building a comprehensive suite of projects to understand modern software eng
 
 ---
 
-## 📝 Blog & Content
+## Blog & Content
 
 The blog features in-depth technical articles including:
 - **Infrastructure & DevOps**: Understanding how servers actually work
@@ -196,7 +196,7 @@ The blog features in-depth technical articles including:
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 - **Dark-first aesthetic**: Professional appearance optimized for readability
 - **Responsive design**: Mobile, tablet, and desktop optimized
@@ -206,7 +206,7 @@ The blog features in-depth technical articles including:
 
 ---
 
-## 📚 Workspace Commands
+## Workspace Commands
 
 ```bash
 # Run commands across the entire workspace
@@ -221,7 +221,7 @@ npm run build -w @gui-portfolio/web
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### TypeScript
 - Root config: `packages/config/tsconfig.base.json`
@@ -236,7 +236,7 @@ npm run build -w @gui-portfolio/web
 
 ---
 
-## 🎓 Learning Goals
+## Learning Goals
 
 This project demonstrates:
 - Modern React patterns and hooks
@@ -249,7 +249,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - **Full-Stack Engineer**: Specializing in DevOps and infrastructure engineering
 - **B.Tech Student**: Newton School of Technology, focusing on Computer Science & AI
@@ -262,7 +262,7 @@ This project demonstrates:
 
 ---
 
-## 📄 License
+## License
 
 This project is part of my portfolio. Feel free to use it as inspiration for your own projects.
 
