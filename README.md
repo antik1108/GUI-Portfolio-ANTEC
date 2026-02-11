@@ -1,4 +1,4 @@
-# 🌐 GUI Portfolio
+# GUI Portfolio
 
 A **modern, full-stack portfolio website** showcasing projects, blog posts, and professional experience. Built as an industry-standard monorepo with React, TypeScript, and Tailwind CSS.
 
