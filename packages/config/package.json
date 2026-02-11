@@ -1,0 +1,11 @@
+{
+  "name": "@gui-portfolio/config",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./tsconfig": "./tsconfig.base.json",
+    "./eslint": "./eslint.base.js",
+    "./tailwind": "./tailwind.base.ts"
+  }
+}
