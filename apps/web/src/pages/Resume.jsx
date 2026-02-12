@@ -26,7 +26,6 @@ const Resume = () => {
               <p className="text-[10px]" style={{ color: 'hsl(120, 5%, 40%)' }}>Kolkata · Aug 2025 - Present</p>
               <div className="mt-1.5 space-y-0.5 text-[10px]" style={{ color: 'hsl(120, 5%, 50%)' }}>
                 <p>→ Strategic planning for health record platform</p>
-                <p>→ Fundraising and investor relations</p>
                 <p>→ Product development and team leadership</p>
                 <p>→ Operations management and scaling</p>
               </div>
@@ -41,10 +40,9 @@ const Resume = () => {
               </h4>
               <p className="text-[10px]" style={{ color: 'hsl(120, 5%, 40%)' }}>Sonipat · Jan 2025 - Present</p>
               <div className="mt-1.5 space-y-0.5 text-[10px]" style={{ color: 'hsl(120, 5%, 50%)' }}>
-                <p>→ Workshops on Kali Linux, ethical hacking</p>
-                <p>→ Cybersecurity awareness campaigns</p>
-                <p>→ Mentoring in penetration testing</p>
-                <p>→ Leading hands-on security challenges</p>
+                <p>→ Led Linux workshops and related activities as OS Head.</p>
+                <p>→ Managed DevOps projects and technical initiatives.</p>
+                <p>→ Promoted continuous learning through technical sessions and peer mentoring.</p>
               </div>
             </div>
           </div>

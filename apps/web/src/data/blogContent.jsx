@@ -394,7 +394,7 @@ export const blogPostsData = [
     title: "The Complete Guide to Self-Hosting from Your Laptop",
     date: { day: 15, month: "Dec" },
     summary: "From zero to production without cloud providers. CGNAT, reverse tunnels, PM2, Tailscale Funnel — everything explained.",
-    image: "/placeholder.svg",
+    image: "/images/Self_hosting.png",
     readTime: "20 min read",
     likes: 128,
     dislikes: 4,

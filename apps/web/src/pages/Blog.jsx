@@ -18,7 +18,7 @@ const Blog = () => {
   return (
     <div className="profile-card">
       <h2 className="section-title">blog</h2>
-      
+
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-5">
         {blogPostsData.map((post) => (
           <div
@@ -27,7 +27,7 @@ const Blog = () => {
             onClick={() => post.fullContent ? setSelectedPost(post) : null}
           >
             <div className="relative overflow-hidden">
-              <img src={post.image} alt={post.title} className="w-full h-36 object-cover transition-all duration-500 group-hover:scale-105" style={{ filter: 'saturate(0.6) brightness(0.7)' }} />
+              <img src={post.image} alt={post.title} className="w-full h-48 object-cover object-top transition-all duration-500 group-hover:scale-105" style={{ filter: 'saturate(0.8) brightness(0.9)' }} />
               <div className="blog-date">
                 <div className="text-sm leading-tight font-bold">{post.date.day}</div>
                 <div className="text-[8px] uppercase tracking-[0.15em]">{post.date.month}</div>
