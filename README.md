@@ -10,13 +10,13 @@ A **modern, full-stack portfolio website** showcasing projects, blog posts, and 
 
 | Feature | Description |
 |---------|-------------|
-| 👤 **About Me** | Professional background, skills, and current focus |
-| 📚 **Blog** | Deep-dive technical articles on infrastructure & DevOps |
-| 🎯 **Portfolio** | Showcase of full-stack projects with descriptions |
-| 📧 **Contact** | Get in touch with email integration |
-| 📄 **Resume** | Downloadable CV and work experience |
-| 🎨 **Modern UI** | Dark theme with responsive design |
-| ⚡ **Fast & Optimized** | Vite-powered, production-ready |
+| **About Me** | Professional background, skills, and current focus |
+| **Blog** | Deep-dive technical articles on infrastructure & DevOps |
+| **Portfolio** | Showcase of full-stack projects with descriptions |
+| **Contact** | Get in touch with email integration |
+| **Resume** | Downloadable CV and work experience |
+| **Modern UI** | Dark theme with responsive design |
+| **Fast & Optimized** | Vite-powered, production-ready |
 
 ---
 
