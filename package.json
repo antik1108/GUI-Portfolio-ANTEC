@@ -10,6 +10,7 @@
     "dev": "npm run dev -w @gui-portfolio/web",
     "build": "npm run build -w @gui-portfolio/web",
     "lint": "npm run lint -w @gui-portfolio/web",
-    "preview": "npm run preview -w @gui-portfolio/web"
+    "preview": "npm run preview -w @gui-portfolio/web",
+    "start:all": "./start.sh"
   }
 }

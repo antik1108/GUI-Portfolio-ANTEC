@@ -8,7 +8,10 @@ const Portfolio = () => {
     {
       id: 1, title: "Terminal-Portfolio-ANTEC", category: "project",
       image: "/images/antec.png",
-      links: [{ title: "Article", url: "#" }]
+      links: [
+        { title: "GitHub", url: "https://github.com/antik1108/Terminal-Portfolio-ANTEC" },
+        { title: "Demo", url: "https://www.terminal-antec.tech/" }
+      ]
     },
 
     {
@@ -20,7 +23,7 @@ const Portfolio = () => {
     {
       id: 4, title: "NIRMAAN 2025", category: "achievement",
       image: "/images/DU_2nd.png",
-      links: [{ title: "Verify", url: "#" }, { title: "Certificate", url: "#" }]
+      links: [{ title: "Certificate", url: "https://drive.google.com/file/d/1oPbyq7dGy3FNWWTzbP_ZVpARtbrNaHkH/view" }]
     }
   ];
 
